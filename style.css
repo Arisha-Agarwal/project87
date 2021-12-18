@@ -1,0 +1,15 @@
+#mycanvas
+{
+    border-width:10px;
+    border-color: palegreen; 
+    border-style: outset;
+    background-color:lightgoldenrodyellow;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: whitesmoke;
+	display: inline-block;
+}
+
